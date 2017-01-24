@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoweTalk2</string>
+    <string name="readfile">readFile</string>
+    <string name="wifistate">wifiState</string>
+    <string name="openwifi">openWifi</string>
+    <string name="connectwifi">connectWifi</string>
+    <string name="starttask">startTask</string>
+    <string name="switchsim2">switchSim2</string>
+    <string name="switchsim1">switchSim1</string>
+    <string name="socketconnect">socketConnect</string>
+    <string name="starttasknum">startTaskNum</string>
+    <string name="num">num</string>
+    <string name="getimsi">getimsi</string>
+    <string name="traveall">traveall</string>
+    <string name="receivesms">receivesms</string>
+    <string name="sendsms">sendsms</string>
+    <string name="lua">lua</string>
+    <string name="email">email</string>
+</resources>
